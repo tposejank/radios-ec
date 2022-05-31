@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Radios Ecuador</title>
+	<trackList>
+		<track>
+			<title>La Suprema Estación (Cuenca 96.1FM)</title>
+			<location>https://streamingecuador.com:7644/la961.m3u</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/la-suprema.png</image>
+		</track>
+		<track>
+			<title>Alfa Radio (Guayaquil 104.1FM)</title>
+			<location>https://radios-ec.cdn.nedmedia.io/radios/ec-alfa.m3u8</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/alfa.png</image>
+		</track>
+		<track>
+			<title>JC Radio La Bruja (Guayaquil 98.5FM)</title>
+			<location>http://s7.yesstreaming.net:8040/stream</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/la-bruja.png</image>
+		</track>
+		<track>
+			<title>Radio HCJB (Quito 89.3FM)</title>
+			<location>https://streamingecuador.net:8287/hcjb</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/hcjb.png</image>
+		</track>
+		<track>
+			<title>La Voz Del Tomebamba (Cuenca 1070AM)</title>
+			<location>https://streamingecuador.com:8074/lavozdeltomebamba</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/la-voz-cuenca.png</image>
+		</track>
+		<track>
+			<title>Diblu FM (Guayaquil 88.9FM)</title>
+			<location>https://streamingecuador.net:9002/stream</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/diblu.png</image>
+		</track>
+		<track>
+			<title>Radio María (Quito 100.1FM)</title>
+			<location>https://radioserver11.profesionalhosting.com:19069/stream</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/maria.png</image>
+		</track>
+		<track>
+			<title>Tropicalida (Guayaquil 93.1FM)</title>
+			<location>https://radios-ec.cdn.nedmedia.io/radios/ec-tropicalida.m3u8</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/tropicalida.png</image>
+		</track>
+		<track>
+			<title>Radio Disney (90.5FM)</title>
+			<location>https://streamingecuador.net:8001/radiodisney.mp3</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension> 
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/disney.png</image>
+		</track>
+		<track>
+			<title>Radio Canela (106.5FM)</title>
+			<location>https://laotrafmradio.latamserver.com/8001/stream</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/canela.png</image>
+		</track>
+		<track>
+			<title>La Otra FM (Guayaquil 94.9FM)</title>
+			<location>https://laotrafmradio.latamserver.com/8011/stream</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/otra-guayaquil.png</image>
+		</track>
+		<track>
+			<title>HJCB-2 (Machala 94.7FM)</title>
+			<location>https://streamingecuador.net:8013/hcjb2</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/hcjb-machala.png</image>
+		</track>
+		<track>
+			<title>Radio América (Quito 104.5FM)</title>
+			<location>https://streamingecuador.com:9100/stream</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/radio-america.png</image>
+		</track>
+		<track>
+			<title>La Red (Quito 102.1FM)</title>
+			<location>https://icecast.radiolared.com.ec/radiolared</location>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+			<image>https://cdn.webrad.io/images/logos/radios-com-ec/la-red.png</image>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
